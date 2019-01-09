@@ -1,0 +1,10 @@
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\bin\x64\Debug\DTWTest.exe.config
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\bin\x64\Debug\DTWTest.exe
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\bin\x64\Debug\DTWTest.pdb
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\obj\x64\Debug\DTWTest.csprojAssemblyReference.cache
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\obj\x64\Debug\DTWTest.csproj.CoreCompileInputs.cache
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\obj\x64\Debug\DTWTest.csproj.CopyComplete
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\obj\x64\Debug\DTWTest.exe
+C:\Users\Benny\source\repos\MuayThaiTraining\DTWTest\obj\x64\Debug\DTWTest.pdb
